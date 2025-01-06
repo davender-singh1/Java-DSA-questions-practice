@@ -32,6 +32,30 @@ public class JavaBasics {
 
         // float price = sc.nextFloat();
         // System.out.println(price);
-        
+
+        // int a = sc.nextInt();
+        // int b = sc.nextInt();
+        // int sum = a + b;
+        // System.out.println(sum);
+
+        // int a = sc.nextInt();
+        // int b = sc.nextInt();
+        // int product = a * b;
+        // System.out.println(product);
+
+        // float rad = sc.nextFloat();
+        // float area = 3.14f * rad * rad;
+        // System.out.println(area);
+
+        // float a = 25.12f;
+        // int b = (int)a;
+        // System.out.println(b);
+
+        // Type promotion
+        short a = 5;
+        byte b = 25;
+        char c = 'c';
+        byte bt = (byte) (a + b + c);
+        System.out.println(bt);
     }
 }
