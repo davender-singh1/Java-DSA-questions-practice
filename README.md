@@ -4,3 +4,4 @@
 2. Variables & Data Types
 3. Conditional Statements
 4. Operators
+5. Loops
